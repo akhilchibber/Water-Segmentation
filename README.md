@@ -1,4 +1,4 @@
-# Deep Learning based Water Segmentation in Satellite Imagery
+# Deep Learning based Water Segmentation in Sentinel-2 Satellite Imagery
 <p align="center">
   <img src="https://github.com/akhilchibber/Water-Segmentation/blob/main/Water-Segmentation.png?raw=true" alt="earthml Logo">
 </p>
