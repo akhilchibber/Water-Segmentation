@@ -13,7 +13,7 @@ To get started with this project:
 2. Ensure you have Jupyter Notebook installed and running.
 3. Install the required dependencies.
 4. Download the "Water Bodies Satellite Dataset" and place it in the designated directory.
-5. Open and run the Jupyter Notebook "Satellite-Water-Segmentation.ipynb" to train and evaluate the model.
+5. Open and run the Jupyter Notebook "Satellite_Water_Segmentation.ipynb" to train and evaluate the model.
    
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
